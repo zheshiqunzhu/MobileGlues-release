@@ -1,3 +1,5 @@
+<img src="assets/MobileGlues-icon.png" width="128">
+
 MobileGlues
 ====
 
