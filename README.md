@@ -5,7 +5,7 @@ MobileGlues
 > 
 > The latest version:
 > 
-> **Not Available**
+> **1.0.0**
 >
 > See [Releases](https://github.com/Swung0x48/MobileGlues-release/releases)
 
