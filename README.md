@@ -9,6 +9,10 @@ MobileGlues
 >
 > See [Releases](https://github.com/Swung0x48/MobileGlues-release/releases)
 
+> [!NOTE]
+> 
+> See [CompatibleShaders.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/CompatibleShaders.md) to see compatible Minecraft shaders.
+
 **MobileGlues**, which stands for "(on) Mobile, GL uses ES", is a GL implementation running on top of host OpenGL ES 3.2, with running Minecraft Java Edition in mind.
 
 Features
