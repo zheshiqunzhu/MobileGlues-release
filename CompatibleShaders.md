@@ -11,6 +11,7 @@
 - MakeUp-UltraFast
 - BSL
 - SEUS-V11
+- SEUS-DAZZLING
 - ComplementaryUnbound
 - ComplementaryShaders
 - Exposa
