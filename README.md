@@ -28,6 +28,12 @@ Features
 
 3. Capable of running some Minecraft mods with custom rendering routines, such as [JourneyMap](https://teamjm.github.io/journeymap-docs/latest) and [Create](https://createmod.net).
 
+About Plugin App
+====
+
+Plugin App has been open sourced at [MobileGlues-plugin](https://github.com/Swung0x48/MobileGlues-plugin).
+Except where otherwise stated, the content of that repository is provided under [ECVL V1.0 license](https://github.com/Swung0x48/MobileGlues-plugin/blob/main/LICENSE.md).
+
 Copyright
 ====
 
