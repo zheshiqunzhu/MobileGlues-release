@@ -17,6 +17,7 @@
 | Sodium | ✅(0.5.11) |
 | Iris | ✅(1.7.2) |
 | Indium | ✅(1.0.34) |
+| Distant Horizon | ✅(2.2.1-a) |
 | Xaero's Minimap | ✅(25.0.0) |
 | Xaero's World Map | ✅(1.39.2) |
 | Create | ✅(fabric-0.5.1-j) |
@@ -31,7 +32,8 @@
 | MakeUp-UltraFast | Iris 1.7.2 | ✅(9.1c, all presets) |
 | Photon | Iris 1.7.2 | ❌(v1.1) |
 | iterationT | Iris 1.7.2 | ✅(3.2.0, all presets) |
+| SEUS PTGI HRR3 | Iris 1.7.2 | ✅<sup>1</sup> |
 
 ## Notes
 
-N/A.
+<sup>1</sup> SEUS PTGI HRR3 requires enabling ANGLE to work properly.
