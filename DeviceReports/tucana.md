@@ -18,12 +18,13 @@
 | Iris | ✅(1.8.5) |
 | Xaero's Minimap | ✅(25.0.0) |
 | Xaero's World Map | ✅(1.39.2) |
-| [ETF]Entity Texture Features | ✅(6.2.10) |
+| Entity Texture Features | ✅(6.2.10) |
+
 ## Shaderpack compatibility
 
-|**Shaderpack** | **Status** | **Loader type** |
+|**Shaderpack** | **ShaderLoader** | **Status** 
 |---|---|----|
-| BSL | ✅(8.4.01.2) | iris |
+| BSL | Iris 1.8.5 | ✅(8.4.01.2) |
 
 
 ## Notes

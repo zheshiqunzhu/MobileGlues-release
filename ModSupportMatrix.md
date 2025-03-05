@@ -1,6 +1,8 @@
 # Mod Support Matrix
 
-This table shows the compatibility of various mods with MobileGlues, as tested on different devices. If you would like to contribute to this list, please submit a pull request with the relevant information. Guidance on how to fill out the table can be found in the [Call to Action section of README.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/README.md#call-to-action).
+This table shows the compatibility of various mods with MobileGlues, as tested on different devices. If you would like to contribute to this list, please submit a pull request with the relevant information. 
+
+Guidance on how to fill out the table can be found in the [Call to Action section of README.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/README.md#call-to-action).
 
 <div style="overflow-x: auto;">
 
