@@ -38,4 +38,4 @@
 ## Notes
 
 
-测试时使用Faithful 64x - Beta 9材质包，该材质包正常渲染
+测试时使用Faithful 64x材质包，该材质包正常渲染
