@@ -26,7 +26,11 @@
 
 |**Shaderpack** | **ShaderLoader** | **Status** 
 |---|---|----|
-| BSL | Iris 1.7.2 | ✅(8.4) |
+| BSL | Iris 1.7.2 | ✅(8.4, all presets) |
+| Chocapic13 V6 Lite | Iris 1.7.2 | ✅ |
+| MakeUp-UltraFast | Iris 1.7.2 | ✅(9.1c, all presets) |
+| Photon | Iris 1.7.2 | ❌(v1.1) |
+| iterationT | Iris 1.7.2 | ✅(3.2.0, all presets) |
 
 ## Notes
 
