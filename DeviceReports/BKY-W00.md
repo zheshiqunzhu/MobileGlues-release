@@ -32,9 +32,7 @@
 ## Shaderpack compatibility
 
 
-Only BSL and some of its derivatives can be used under Optifine.
-
-只有BSL及其部分衍生品可以在optifine环境下正常运行。
+只有BSL及其部分衍生品可以在optifine环境下正常运行，iris下无法使用任何光影。
 
 
 ## Notes
