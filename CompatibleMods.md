@@ -8,6 +8,7 @@
 - Xaero's Minimap
 - Xaero's World Map (has color issues under 0.5x zoom)
 - Create 0.5.1j (Fabric / NeoForge, with flywheel batching/instancing backend supported <sup>2</sup>)
+- Timeless and Classics Zero (aka. TaCZ, Fabric)
 
 <sup>1</sup> Regarding shader compatibility, please refer to [CompatibleShaders.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/CompatibleShaders.md)
 
