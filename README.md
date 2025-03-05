@@ -46,6 +46,21 @@ Filling out the [mod support matrix](https://github.com/Swung0x48/MobileGlues-re
 
 We need your help to test the compatibility of shaders and mods, and a broad variety of devices!
 
+> [!NOTE]
+> How to fill out the table
+> 
+> You may:
+> 
+> - Add a new device to the table, by appending a new row to the table. (You can get device codename from `adb shell getprop ro.product.name`)
+> - Add a new item to the table, by appending a new column to the table. (Make sure you have modify all the rows to add the column!)
+> - Fill out the table with the compatibility of the item on the device, by marking the cell with
+>     - a checkmark (✅) if the item is compatible, 
+>     - or a cross (❌) if the item is fully not compatible (and file an issue/link to the issue). 
+>     - If the item is not tested (not included in your modpack/you do not install this mod), mark the cell with a question mark (?).
+>     - a asterisk (*️⃣) if the item is working, but have missing features and/or have graphical glitches (and file an issue/link to the issue).
+> - If applicable, you may want to mention what additional drivers/plugins rather than the one vendor provides, are in use (such as turnip drivers, ANGLE, etc.) in the "Additional Drivers/Plugins in use" column.
+> - If applicable, you should add a file named `*device_codename*.md`, to provide additional information, and put the link in the last column.
+
 Copyright
 ====
 

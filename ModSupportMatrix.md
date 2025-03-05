@@ -1,20 +1,6 @@
 # Mod Support Matrix
 
-## How to fill out this table
-
-You may:
-
-- Add a new device to the table, by appending a new row to the table. (You can get device codename from `adb shell getprop ro.product.name`)
-- Add a new mod to the table, by appending a new column to the table. (Make sure you have modify all the rows to add the column!)
-- Fill out the table with the compatibility of the mod on the device, by marking the cell with
-    - a checkmark (✅) if the mod is compatible, 
-    - or a cross (❌) if the mod is fully not compatible (and file an issue/link to the issue). 
-    - If the mod is not tested (not included in your modpack/you do not install this mod), mark the cell with a question mark (?).
-    - a asterisk (*️⃣) if the mod is working, but have missing features and/or have graphical glitches (and file an issue/link to the issue).
-- If applicable, you may want to mention what additional drivers/plugins rather than the one vendor provides, are in use (such as turnip drivers, ANGLE, etc.) in the "Additional Drivers/Plugins in use" column.
-- If applicable, you should add a file named `*device_codename*.md`, to provide additional information, and put the link in the last column.
-
-## The Support Matrix
+This table shows the compatibility of various mods with MobileGlues, as tested on different devices. If you would like to contribute to this list, please submit a pull request with the relevant information. Guidance on how to fill out the table can be found in the [Call to Action section of README.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/README.md#call-to-action).
 
 <div style="overflow-x: auto;">
 
