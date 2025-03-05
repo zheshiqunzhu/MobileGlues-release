@@ -35,6 +35,17 @@ Plugin App has been open sourced at [MobileGlues-plugin](https://github.com/Swun
 
 Except where otherwise stated, the content of that repository is provided under [ECVL V1.0 license](https://github.com/Swung0x48/MobileGlues-plugin/blob/main/LICENSE.md).
 
+Call to Action
+====
+
+Since we are a small team, we cannot own every distinct phone and do through tests on them.
+
+If you are interested in this project, please consider contributing to the project by:
+
+Filling out the [mod support matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) or [shader  support matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md)!
+
+We need your help to test the compatibility of shaders and mods, and a broad variety of devices!
+
 Copyright
 ====
 
