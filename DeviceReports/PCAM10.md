@@ -27,6 +27,9 @@
 | Chocapic13 | Iris 1.8.8 | ✅(V6 Lite, all presets) |
 | ComplementaryReimagined | Iris 1.8.8 | *️⃣(r5.4, High) |
 | photon | Iris 1.8.8 | *️⃣(v1.1, High) |
+| MakeUp-UltraFast | Iris 1.8.8 | ✅(9.1c, high) |
+| iterationT | Iris 1.8.8 | *️⃣(3.2.0, High) |
+| SEUS PTGI HRR3 | Iris 1.8.8 | ❌<sup>*</sup> |
 
 # Shaderpack Screenshot
 - BSL v8.4.02.1  
@@ -37,6 +40,8 @@
 ![ComplementaryReimagined](/assets/shaderpack_screenshot/PCAM10/ComplementaryReimagined_r5.4.png)
 - photon v1.1
 ![photon v1.1](/assets/shaderpack_screenshot/PCAM10/photon_v1.1.png)
+- iterationT 3.2.0
+![iterationT 3.2.0](/assets/shaderpack_screenshot/PCAM10/iterationT_3.2.0.png)
 
 ## Notes
 
