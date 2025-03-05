@@ -16,6 +16,7 @@ MobileGlues
 > See [CompatibleShaders.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/CompatibleShaders.md) to see compatible Minecraft shaders.
 >
 > See [CompatibleMods.md](https://github.com/Swung0x48/MobileGlues-release/blob/main/CompatibleMods.md) to see compatible Minecraft mods.
+>
 > See [Mod Support Matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) or [Shader Support Matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md) to check how your device works out.
 
 **MobileGlues**, which stands for "(on) Mobile, GL uses ES", is a GL implementation running on top of host OpenGL ES 3.2, with running Minecraft Java Edition in mind.
