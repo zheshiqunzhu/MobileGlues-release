@@ -1,9 +1,9 @@
-# iaomi Mi CC9 Pro (tucana)
+# Xiaomi Mi CC9 Pro (tucana)
 
 ## Device Info
 
 - **SoC**: Snapdragon 730G
-- **GPU**: OpenCL 2.0 Adreno(TM) 618
+- **GPU**: Adreno(TM) 618
 - **OS**: Android 11
 
 ## MobileGlues version tested
