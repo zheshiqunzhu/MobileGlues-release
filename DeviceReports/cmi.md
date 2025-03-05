@@ -31,15 +31,18 @@
 
 ## Shaderpack compatibility
 
+|**Shaderpack** | **ShaderLoader** | **Status** 
+|---|---|----|
+| BSL | Iris 1.7.6 | ✅(8.4, all presets) |
+| Complementary Shaders - Unbound | Iris 1.7.6 | *️⃣(r5.4, 无法渲染方块)  |
+| Photon | Iris 1.7.6 | *️⃣(v1.1, 闪烁奇怪色块) |
+| iterationT | Iris 1.7.6| ✅(3.2.0, all presets) |
 
-BSL、iterationT 3.2.0正常运渲染
-
-Complementary Shaders - Unbound无法渲染方块
-
-Photon Shader运行较为正常，但是闪烁不明色块
 
 
 ## Notes
 
 
 测试时使用Faithful 64x材质包，该材质包正常渲染
+
+部分光影虽然渲染正常，但在该设备上的帧率极低，如iterationT
