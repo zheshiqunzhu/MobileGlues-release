@@ -22,7 +22,6 @@
 |---|---|
 | Sodium | ✅(0.6.5) |
 | Iris | *️⃣(1.8.1) |
-| Indium | ? |
 | Xaero's Minimap | ✅(25.1.0) |
 | Xaero's World Map | ✅(1.39.4) |
 
