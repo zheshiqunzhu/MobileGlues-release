@@ -32,14 +32,14 @@
 ## Shaderpack compatibility
 
 
-BSL_v8.4.01.2、itt3.2.0正常运渲染
+BSL、iterationT 3.2.0正常运渲染
 
-ComplementaryUnbound_r5.4无法渲染方块
+Complementary Shaders - Unbound无法渲染方块
 
-photon_v1.1运行较为正常，但是闪烁不明色块
+Photon Shader运行较为正常，但是闪烁不明色块
 
 
 ## Notes
 
 
-测试时使用Faithful 64x - Beta 9材质包，该材质包正常渲染
+测试时使用Faithful 64x材质包，该材质包正常渲染
