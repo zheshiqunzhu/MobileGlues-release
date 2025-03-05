@@ -24,7 +24,9 @@
 
 ## Shaderpack compatibility
 
-TBD.
+|**Shaderpack** | **ShaderLoader** | **Status** 
+|---|---|----|
+| BSL | Iris 1.7.2 | ✅(8.4) |
 
 ## Notes
 
