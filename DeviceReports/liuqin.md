@@ -1,12 +1,12 @@
-# Redmi K20 Pro (raphael)
+# Xiaomi Pad 6 Pro (liuqin)
 
 
 ## Device Info
 
 
-- **SoC**: Snapdragon 855
-- **GPU**: Adreno 640
-- **OS**: Android 13
+- **SoC**: Snapdragon 8+
+- **GPU**: Adreno 730
+- **OS**: Android 15
 
 
 ## MobileGlues version tested
@@ -40,13 +40,11 @@
 |---|---|----|
 | BSL | Iris 1.7.6 | ✅(8.4, all presets) |
 | Complementary Shaders - Unbound | Iris 1.7.6 | *️⃣(r5.4, 无法渲染方块)  |
-| Photon | Iris 1.7.6 | *️⃣(v1.1, 闪烁奇怪色块) |
-| iterationT | Iris 1.7.6| ✅(3.2.0, all presets) |
+| Photon | Iris 1.7.6 | ✅(v1.1, all presets) |
+| iterationT | Iris 1.7.6| *️⃣(3.2.0, 水体异常) |
 
 
 ## Notes
 
 
 测试时使用Faithful 64x材质包，该材质包正常渲染
-
-由于该设备较为落后的性能，绝大部分光影只能进去看风景
