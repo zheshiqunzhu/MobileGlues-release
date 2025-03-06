@@ -22,6 +22,7 @@
 | Xaero's World Map | ✅(1.39.2) |
 | Create | ✅(fabric-0.5.1-j) |
 | TaCZ | ✅(1.0.2) |
+| Modern UI | ✅(3.11.1.6) |
 
 ## Shaderpack compatibility
 
