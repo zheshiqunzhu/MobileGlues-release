@@ -26,6 +26,8 @@
 | BSL | Iris 1.8.8 | ✅(8.4.02.1, all presets) |
 | Chocapic13 | Iris 1.8.8 | (✅V6 Lite, V9 Extreme, all presets) |
 | ComplementaryReimagined | Iris 1.8.8 | ✅(r5.4, High) |
+| ComplementaryUnbound | Iris 1.8.8 | ✅(r5.4, High) |
+| Derivative Main | Iris 1.8.8 | ✅(2.0.1, d24.4.14, all presets) |
 | photon | Iris 1.8.8 | ✅(v1.1, High) |
 | MakeUp-UltraFast | Iris 1.8.8 | ✅(9.1c, high) |
 | iterationT | Iris 1.8.8 | ✅(3.2.0, High) |
