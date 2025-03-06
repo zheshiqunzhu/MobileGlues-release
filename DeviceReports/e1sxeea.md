@@ -23,7 +23,7 @@
 
 |**Shaderpack** | **ShaderLoader** | **Status** 
 |---|---|----|
-| BSL | Iris 1.8.8 | (8.4.01.2, all presets) |
+| BSL | Iris 1.8.8 | ✅(8.4.01.2, all presets) |
 | Chocapic13 | Iris 1.8.8 | ✅(V6 Lite, all presets) |
 | MakeUp-UltraFast | Iris 1.8.8 | ✅(9.1c, all presets) |
 | Photon | Iris 1.8.8 | ✅(v1.1) |
