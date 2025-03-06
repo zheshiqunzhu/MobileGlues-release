@@ -22,11 +22,15 @@
 |---|---|
 | Sodium | ✅(0.5.13) |
 | Iris | ✅(1.7.6) |
+| Distant Horizons | ✅(2.2.1-a) |
+| Modern UI | ✅(3.11.1.6) |
+| Entity Texture Features | ✅(6.2.9) |
 | Indium | ✅(1.0.36) |
 | Xaero's Minimap | ✅(25.1.0) |
 | Xaero's World Map | ✅(1.39.4) |
 | Create | ✅(0.5.1-j) |
 | TaCZ | ✅(1.0.2-hotfix3) |
+
 
 
 ## Shaderpack compatibility
