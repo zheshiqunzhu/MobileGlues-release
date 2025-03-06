@@ -18,6 +18,12 @@
 | Iris | ✅(1.8.8) |
 | Xaero's Minimap | ✅(25.1.0) |
 | Xaero's World Map | ✅(1.39.4) |
+| Indium | ✅(1.0.35) |
+| Continuity | ✅(3.0.0) |
+| Jade | ✅(15.9.3) |
+| Inventory HUD+ | ✅(3.4.26) |
+| Just Enough Items | ✅(19.21.0.247) |
+
 
 ## Shaderpack compatibility
 
@@ -35,4 +41,4 @@
 
 ## Notes
 
-N/A.
+在官方 Hyper OS 1.0.17.0.UMRCNXM (Android 14) 上运行时，需要禁用Angle，因为当前系统GPU驱动支持vulkan版本仅为1.1.128
