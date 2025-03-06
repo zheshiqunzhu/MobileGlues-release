@@ -31,6 +31,7 @@
 | SEUS PTGI HRR3 | Iris 1.8.8 | ✅<sup>1</sup> |
 | ComplementaryReimaged | Iris 1.8.8 | *️⃣(r5.4, won't load 'very high', below OK) |
 | ComplementaryUnbound | Iris 1.8.8 | *️⃣(r5.4, won't load 'very high', below OK) |
+| Derivative Main | Iris 1.8.8 | ✅(d24.4.14, all presets)
 
 ## Notes
 
